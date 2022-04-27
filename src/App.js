@@ -36,7 +36,7 @@ function App() {
         ></ParallaxLayer>
 
         <ParallaxLayer
-          sticky={{ start: 0.9, end: 2.5 }}
+          sticky={{ start: 0.9, end: 0.9 }}
           style={{ textAlign: "center" }}
         ></ParallaxLayer>
 
